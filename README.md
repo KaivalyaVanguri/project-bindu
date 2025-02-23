@@ -1,0 +1,2 @@
+# project-bindu
+Educational Platform
